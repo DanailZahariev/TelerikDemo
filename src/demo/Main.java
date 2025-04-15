@@ -15,6 +15,7 @@ public class Main {
         double newDouble = 1.2;
 
         System.out.println("Hello, Telerik");
+        long newLong = 10L;
         System.out.println("Hello, Telerik2");
     }
 }
