@@ -12,5 +12,6 @@ public class Main {
         }
         int newInt = 10;
         System.out.println("Hello, World");
+        System.out.println("Hello, Telerik");
     }
 }
