@@ -17,5 +17,6 @@ public class Main {
         System.out.println("Hello, Telerik");
         long newLong = 10L;
         System.out.println("Hello, Telerik2");
+        System.out.println("Using terminal");
     }
 }
