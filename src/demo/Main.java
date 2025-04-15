@@ -6,7 +6,7 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
 
-        for (int i = 1; i <= 10 ; i++) {
+        for (int i = 1; i <= 10; i++) {
             System.out.println(i);
         }
 
@@ -21,5 +21,7 @@ public class Main {
         long newLong = 10L;
         System.out.println("Hello, Telerik2");
         List<String> newStringList = new ArrayList<>();
+        System.out.println("Using terminal");
+
     }
 }
