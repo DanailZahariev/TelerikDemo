@@ -23,5 +23,8 @@ public class Main {
         List<String> newStringList = new ArrayList<>();
         System.out.println("Using terminal");
         String newString = "Hello, Telerik";
+        System.out.println("Using terminal one more time");
+
+
     }
 }
