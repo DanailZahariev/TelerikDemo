@@ -15,5 +15,6 @@ public class Main {
         double newDouble = 1.2;
 
         System.out.println("Hello, Telerik");
+        System.out.println("Hello, Telerik2");
     }
 }
