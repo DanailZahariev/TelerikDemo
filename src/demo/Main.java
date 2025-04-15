@@ -22,6 +22,7 @@ public class Main {
         System.out.println("Hello, Telerik2");
         List<String> newStringList = new ArrayList<>();
         System.out.println("Using terminal");
+        System.out.println("Using terminal one more time");
 
     }
 }
