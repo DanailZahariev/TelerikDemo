@@ -26,6 +26,7 @@ public class Main {
         System.out.println("Using terminal one more time");
         String ime = "Nasko";
         System.out.println("Using terminal one more time2");
+        int numer = 5;
 
 
     }
