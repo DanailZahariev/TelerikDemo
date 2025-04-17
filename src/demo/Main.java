@@ -24,6 +24,7 @@ public class Main {
         System.out.println("Using terminal");
         String newString = "Hello, Telerik";
         System.out.println("Using terminal one more time");
+        System.out.println("Using terminal one more time2");
 
 
     }
